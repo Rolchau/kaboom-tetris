@@ -1,0 +1,25 @@
+KaboomJS Learning:
+  ☐ Create scene transitions   
+  ☐ Create a sprite character
+  ☐ Adding a FPS counter - debug? (Can press F1 to see it) 
+
+The Tetris game:
+  ☐ Add silly little beam thingiemajig
+  ✔ Fix the square instance error @done(21-08-17 22:12)
+  ✔ Create game loop @done(21-08-26 21:58)
+  ☐ Add score
+  ☐ Add level up functionality
+
+
+Tetris game v1 features:
+  ☐ Add scores
+  ☐ Add line counter
+  ☐ Add drop functionality
+  ☐ Add Highscore with localstorage
+    (I think a window.atob would be fine)
+  ☐ Add pause text/screen
+
+Tetris game V2 features:
+  ☐ Add mobile layout and textures
+  ☐ Add block removal effect - falling bricks perhabs
+  ☐ Add animated pause text
